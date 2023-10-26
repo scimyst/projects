@@ -4,8 +4,8 @@
 
 | #    | Наименование проекта                | Описание                                                     | Навыки и инструменты                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Яндекс.Музыка](https://github.com/scimyst/yandex_practicum/tree/main/Y_project_1(yandex_music)) | Анализ прослушиваний в Москве и Санкт-Петербурге | python, pandas       |
-| 2.   | [Банк](https://github.com/scimyst/yandex_practicum/tree/main/Y_project_2(bank_clients)) | Исследование надежности заёмщиков | python, pandas, предобработка данных |
+| 1.   | [Яндекс.Музыка](https://github.com/scimyst/yandex_practicum/tree/main/Y_project_1(yandex_music)) | Анализ прослушиваний в Москве и Санкт-Петербурге | Python, Pandas       |
+| 2.   | [Банк](https://github.com/scimyst/yandex_practicum/tree/main/Y_project_2(bank_clients)) | Исследование надежности заёмщиков | Python, Pandas, предобработка данных |
 | 3.   | [Яндекс.Недвижимость](https://github.com/scimyst/yandex_practicum/tree/main/Y_project_3(real_estate)) | Исследование объявлений о продаже квартир             | Matplotlib, Pandas, Python, визуализация данных, исследовательский анализ данных, предобработка данных |
 | 4.   | [Игры](https://github.com/scimyst/yandex_practicum/tree/main/Y_project_5(games)) | Исследование закономерностей, определяющих успешность игры             | Matplotlib, NumPy, Pandas, Python, исследовательский анализ данных, описательная статистика, предобработка данных, проверка статистических гипотез |
 | 5.   | [Procrastinate Pro+](https://github.com/scimyst/yandex_practicum/tree/main/Y_project_6(procrastinate_pro%2B)) | Исследование окупаемости рекламы мобильного приложения             | Matplotlib, Pandas, Python, Seaborn, когортный анализ, продуктовые метрики, юнит-экономика |
