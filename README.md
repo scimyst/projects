@@ -5,5 +5,5 @@
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1.   | [Яндекс.Музыка](https://github.com/scimyst/yandex_practicum/tree/main/Y_project_1(yandex_music)) | анализ прослушиваний в Москве и Санкт-Петербурге | python, pandas       |
-| 2.   | [Прогноз количества заказов для сервиса такси](https://github.com/aq2003/Portfolio/tree/main/Taxi%20Service) | Прогноз количества заказов в аэропортах <br/>для сервиса такси с целью более точного планирования количества доступных <br/>автомобилей | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib |
-| 3.   | [Анализ текстов](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
+| 2.   | [Банк](https://github.com/scimyst/yandex_practicum/tree/main/Y_project_2(bank_clients)) | Исследование надежности заёмщиков | python, pandas, предобработка данных |
+| 3.   | [Яндекс.Недвижимость](https://github.com/scimyst/yandex_practicum/tree/main/Y_project_3(real_estate)) | Исследование объявлений о продаже квартир             | python, pandas, numpy, nltk, sklearn, CatBoost |
